@@ -295,7 +295,7 @@ position: relative;
     display: flex;
     flex-direction: column;
     /* Ye path ab bilkul sahi hai aapke naye folder ke hisaab se */
-    background-image: url('img/law-justice-gavel-statue-books.webp');
+background-image: url('./img/law-justice-gavel-statue-books.webp');   
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
