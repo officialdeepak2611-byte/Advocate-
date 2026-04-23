@@ -1135,7 +1135,7 @@ background: url('law-justice-gavel-statue-books.webp') no-repeat center center/c
   z-index: 1;
   background:
     linear-gradient(rgb(24 24 24 / 50%), rgb(24 24 24 / 50%)),
-    url('/assat/img/view-3d-justice-scales.webp') no-repeat center center/cover;
+    url('view-3d-justice-scales.webp') no-repeat center center/cover;
   background-attachment: fixed;
   /* background-image: url('your-image.jpg'); background-size: cover; background-position: center; */
 
