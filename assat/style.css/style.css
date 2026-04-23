@@ -292,8 +292,7 @@ body {
 .hero-section {
   position: relative;
   min-height: 100vh;
-  background: url('img/law-justice-gavel-statue-books.webp') no-repeat center center/cover;
-  display: flex;
+background: url('law-justice-gavel-statue-books.webp') no-repeat center center/cover;  display: flex;
   flex-direction: column;
 }
 
