@@ -290,10 +290,15 @@ body {
 
 /* ================= HERO SECTION ================= */
 .hero-section {
-  position: relative;
-  min-height: 100vh;
-background: url('law-justice-gavel-statue-books.webp') no-repeat center center/cover;  display: flex;
-  flex-direction: column;
+position: relative;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /* Ye path ab bilkul sahi hai aapke naye folder ke hisaab se */
+    background-image: url('img/law-justice-gavel-statue-books.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .hero-overlay {
